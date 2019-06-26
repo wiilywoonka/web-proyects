@@ -2,8 +2,14 @@ html {
   background-color: #FFF8A3;
 }
 
-h1 {
-  font-size: 60px;
+.nav {
+  font-size: 20px;
+  background-color: #FBB069;
+  text-align: left;
+}
+
+header h1 {
+  font-size: 70px;
   margin: 0;
   padding: 20px 0;
   color: #c63a67;
