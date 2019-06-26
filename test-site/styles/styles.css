@@ -4,11 +4,15 @@ html {
 
 h1 {
   font-size: 60px;
+  margin: 0;
+  padding: 20px 0;
+  color: #c63a67;
+  text-shadow: 4px 3px 1px black;
   text-align: center;
 }
 
 p, li {
   font-size: 20px;
   line-height: 2;
-  letter-spacing: 1px; 
+  letter-spacing: 1px;
 }
