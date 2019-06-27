@@ -1,14 +1,48 @@
 html {
-  background-color: #FFF8A3;
+  background-color: #E46B1F;
 }
 
-.nav {
+.div1 {
+  margin: 0 100px;
+  padding: 0 20px;
+}
+
+.top {
+  text-shadow: 5px 3px 1px black;
+  font-size: 50px;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  color: #2566CE;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+.section1 {
   font-size: 20px;
-  background-color: #FBB069;
+  padding: 5px 5px;
   text-align: left;
 }
 
-header h1 {
+.menu li {
+  text-align: left;
+  font-size: 20px;
+  width: 350px;
+  display: block;
+  margin: 0;
+  padding-bottom: 10px;
+}
+
+.section2 {
+  text-align: left;
+  padding: 5px 5px;
+  font-size: 20px;
+}
+
+/*header h1 {
   font-size: 70px;
   margin: 0;
   padding: 20px 0;
@@ -16,9 +50,4 @@ header h1 {
   text-shadow: 4px 3px 1px black;
   text-align: center;
 }
-
-p, li {
-  font-size: 20px;
-  line-height: 2;
-  letter-spacing: 1px;
-}
+*/
