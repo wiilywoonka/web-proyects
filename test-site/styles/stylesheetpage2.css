@@ -1,0 +1,25 @@
+p {
+  font-family: Arial;
+}
+
+.title {
+  color: teal;
+  font-size: 40px;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.destination {
+  color: maroon;
+}
+
+img {
+  padding-left: 450px;
+  /* border: solid 1px black; */
+}
+
+li {
+  padding: 5px 5px;
+}

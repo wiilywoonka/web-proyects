@@ -1,0 +1,10 @@
+table,
+td,
+th {
+  border: solid 1px black;
+}
+
+#title {
+  font-size: 60px;
+  text-transform: capitalize;
+}

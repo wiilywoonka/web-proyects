@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#inicio {
+  text-align: cen|21|ter;
+  color: green;
+  font-size: 60px;
+}
+
+#menu li{
+  display: inline-block;
+  font-size: 20px;
+  padding: 10px 20px;
+  border: solid 1px black;
+}
+
+.div1 {
+  margin: 10px 30px;
+  border: solid 1px black;
+}
+
+img {
+  margin: 100px 100px;
+  border: solid 1px black;
+  wei
+}
+
+#article1 {
+  border: solid 1px black;
+}
