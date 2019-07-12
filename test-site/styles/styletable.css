@@ -1,10 +1,16 @@
-table,
-td,
-th {
+table th, td {
   border: solid 1px black;
 }
 
 #title {
   font-size: 60px;
   text-transform: capitalize;
+}
+
+.table-head {
+  background-color: rebeccapurple;
+}
+
+.cursive {
+  font-family: cursive;
 }
